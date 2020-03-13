@@ -1,6 +1,6 @@
 {
   "name": "corona_react",
-  "homepage": "http://lwfletch.github.io/react_corona"
+  "homepage": "http://lwfletch.github.io/react_corona",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
